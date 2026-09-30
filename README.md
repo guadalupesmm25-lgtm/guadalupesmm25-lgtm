@@ -14,7 +14,7 @@ A continuación encuentras el acceso directo a mis proyectos organizados por tec
 | :--- | :--- | :--- | :---: |
 | 🛢️ **SQL** | Bases de Datos | Control Académico y Gestión de Alumnos | [Ver Proyecto](https://github.com/guadalupesmm25-lgtm/control-academico-sql) |
 | ☕ **Java** | Desarrollo de Software | Sistema de Gestión de Cuentas Bancarias | [Ver Proyecto](https://github.com/guadalupesmm25-lgtm/sistema-bancario-java) |
-| 📊 **Power BI** | Análisis y Visualización de Datos | Dashboards e Informes | [Ver Proyecto](https://github.com/guadalupesmm25-lgtm/dashboards-powerbi) |
+| 📊 **Power BI** | Análisis y Visualización de Datos | Dashboards e Informes | [Ver Proyecto](https://github.com/guadalupesmm25-lgtm/dashboard-cine-powerbi) |
 | 💻 **C#** | Desarrollo de Software | Aplicaciones de Escritorio / Web | [Ver Proyecto](https://github.com/guadalupesmm25-lgtm/proyectos-csharp) |
 
 ---
