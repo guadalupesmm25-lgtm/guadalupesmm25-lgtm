@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Guadalupe
+#Soy Guadalupe
 
 **Estudiante de Ingeniería en Sistemas Computacionales**
 
